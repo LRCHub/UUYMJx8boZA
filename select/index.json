@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ただ愛されたかった",
+  "base_artist": "shizuku",
+  "createdAt": "2026-02-16T09:03:26.784815Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ただ愛されたかった (feat. 可不)",
+      "artist": "shizuku",
+      "has_synced": false,
+      "path": "select/pl_01_ただ愛されたかった_(feat._可不)_shizuku.txt"
+    }
+  ]
+}
